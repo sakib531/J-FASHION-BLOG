@@ -1,0 +1,30 @@
+@media screen and (max-width: 800px) {
+    
+    .first-section-box
+    .main-menu
+    .main-header {
+        width:100%;
+    }
+    
+    
+    section.first-section {
+        background: url('images/jane.jpg') no-repeat;
+        width: 100%;
+        height: 200px;
+        padding: 55px 0px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .first-section-part {
+        margin-left: 0;
+        width: 100%;
+        display: block;
+    }
+
+    .first-section-box-margin-minus-2 {
+        display: block;
+        margin-left: 0;
+    }
+
+}
