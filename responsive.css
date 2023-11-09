@@ -97,7 +97,7 @@
     }
 
     .second-section-part-2-2-2 {
-        width: 96%;
+        width: 94%;
         height: 380px;
         background: white;
         margin-left: 10px;
@@ -114,8 +114,9 @@
         display: flex;
         float: left;
         background: gray;
-        padding: 20px 19.85px;
+        padding: 6% 6.5545%;
         justify-content: space-evenly;
     }
+
 
 }
