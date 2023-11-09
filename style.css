@@ -84,10 +84,6 @@ section.first-section {
     flex-wrap: wrap;
     padding: 25px 0px;
 }
-.first-section-box-margin-minus-2 {
-    /* display: flex; */
-    /* margin-left: -2%; */
-}
 
 .first-section-part {
     /* margin-left: 2%; */
