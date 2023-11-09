@@ -68,7 +68,7 @@
     .two-buttons button:last-child {
         /* background: gray; */
         color: white;
-        margin-left: 30%;
+        margin-left: 25%;
     }
 
     .subscribe {
@@ -119,7 +119,7 @@
         display: flex;
         float: left;
         background: gray;
-        padding: 6% 6.545%;
+        padding: 6% 6.245%;
         justify-content: space-evenly;
     }
 
